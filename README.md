@@ -43,7 +43,7 @@
 
 * **Operating System**: This package should work on **MacOS** and **Linux**. If you're using **Windows**, you're gonna need **WSL**.
 
-* **Laravel 9**
+* **Laravel 8, 9**
 
 * **Vue CLI**: Under the hood, this package will call the [**Vue CLI**](https://cli.vuejs.org/) tool. Make sure you have **Vue CLI V5** installed before continuing. If you don't, [**the installation**](https://cli.vuejs.org/guide/installation.html) is fairly simple.
 
