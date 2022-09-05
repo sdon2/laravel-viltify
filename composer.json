@@ -1,19 +1,23 @@
 {
-    "name": "dalpizzol/laravel-viltify",
+    "name": "sdon2/laravel-viltify",
     "description": "A starter kit that integrates Laravel with Vue CLI, Inertia.js, TailwindCSS and Vuetify",
-    "homepage": "https://github.com/MtDalPizzol/laravel-viltify",
+    "homepage": "https://github.com/sdon2/laravel-viltify",
     "license": "MIT",
     "authors": [
         {
             "name": "Matheus Dal'Pizzol",
             "email": "matheusdalpizzol@gmail.com"
+        },
+        {
+            "name": "Saravanakumar Arumugam",
+            "email": "saravanakumar.a.o@gmail.com"
         }
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "illuminate/filesystem": "^9.3",
-        "illuminate/support": "^9.3",
-        "illuminate/validation": "^9.3"
+        "illuminate/filesystem": "^8.0|^9.3",
+        "illuminate/support": "^8.0|^9.3",
+        "illuminate/validation": "^8.|^9.3"
     },
     "autoload": {
         "psr-4": {
